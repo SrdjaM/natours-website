@@ -1,0 +1,3 @@
+@function shadow($visibility) {
+  @return rgba($color-black, $visibility);
+}
